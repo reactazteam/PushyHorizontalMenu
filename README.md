@@ -6,7 +6,7 @@
 * This is just a simple project to show you the idea how to implement a menu by yourself.
 * It helps you create the pushy horizontal menu quickly and professionally. It’s easy to customize and develop.
 * Version 1.0
-* ![Demo Gif](http://g.recordit.co/5Rp1n1RCfg.gif)
+* ![Demo Gif](http://g.recordit.co/0va4lM4gNS.gif)
 
 
 ### Installation ###
